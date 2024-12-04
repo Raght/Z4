@@ -1,0 +1,5 @@
+[project]
+name = "package"
+version = "0.0.1"
+description = "package"
+requires-python = ">=3.9"
